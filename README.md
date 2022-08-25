@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there git farer 👋
 
 - 🤗 Let's collaborate on [github/innv8](https://github.com/innv8). 
 - 📚 Blog posts at [innv8.ke](https://innv8.ke)
