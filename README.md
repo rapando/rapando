@@ -1,7 +1,8 @@
 ### Hi there git farer 👋
 
 - 🤗 Let's collaborate on [github/innv8](https://github.com/innv8). 
-- 📚 Blog posts at [rapando.co.ke](https://rapando.co.ke)
+- 📚 Posts at [rapando.co.ke](https://rapando.co.ke)
+- 📚 Some old medium posts: [Medium](https://medium.com/@samy_raps)
 
 ---
 
