@@ -19,7 +19,7 @@
 
 ### 📫 Connect with Me  
 - 🌐 **Website/Blog:** [innv8.ke](https://innv8.ke)  
-- 💼 **LinkedIn:** [rapando](linkedin.com/in/rapando)  
+- 💼 **LinkedIn:** [rapando](https://linkedin.com/in/rapando)  
 - 🐦 **bsky:** [rapando](https://rapando.bsky.social)   
 
 💡 _"Code once, Test twice"_ 🚀  
