@@ -37,7 +37,7 @@ Currently working on: Kubernetes and GitOps (ArgoCD), OpenTelemetry-based observ
 
 ## Connect
 
-- 🌐 Website / Blog: [innv8.ke](https://innv8.ke)
+- 🌐 Website / Blog: [rapando.co.ke](https://rapando.co.ke)
 - 💼 LinkedIn: [linkedin.com/in/rapando](https://linkedin.com/in/rapando)
 - 🦋 Bluesky: [@rapando.bsky.social](https://bsky.app/profile/rapando.bsky.social)
 
