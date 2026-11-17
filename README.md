@@ -2,7 +2,7 @@
 
 **Software Engineer · Backend Lead · Open Source Contributor**
 
-I build clean, reliable and scalable backend systems, and the developer tooling around them. My focus is backend development, distributed systems, cloud infrastructure and observability.
+As a Backend Lead, I design and ship backend services, guide technical direction and mentor engineers. I build clean, reliable and scalable systems, and the developer tooling around them. My focus is backend development, distributed systems, cloud infrastructure and observability.
 
 Currently working on: Kubernetes and GitOps (ArgoCD), OpenTelemetry-based observability, and developer tools in Go and Rust.
 
